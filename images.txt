@@ -2,3 +2,5 @@ gpustack/gpustack
 apache/apisix:latest
 bitnami/etcd:3.4.9
 nginx:1.19.0-alpine
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
