@@ -1,3 +1,4 @@
 gpustack/gpustack
 apache/apisix:latest
 bitnami/etcd:3.4.9
+nginx:1.19.0-alpine
