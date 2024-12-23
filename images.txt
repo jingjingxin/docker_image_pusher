@@ -1,2 +1,3 @@
 gpustack/gpustack
 apache/apisix:latest
+bitnami/etcd:3.4.9
