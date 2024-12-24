@@ -7,3 +7,4 @@ grafana/grafana:7.3.7
 alpine:latest
 golang:1.19
 node:14-alpine
+apache/apisix-dashboard
