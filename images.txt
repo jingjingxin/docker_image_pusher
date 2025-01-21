@@ -9,5 +9,4 @@ golang:1.19
 node:14-alpine
 apache/apisix-dashboard
 apache/apisix:3.10.0-debian
-xprobe/xinference:latest
 docker.n8n.io/n8nio/n8n
